@@ -1,0 +1,121 @@
+h1 {
+    font-size: 50px; 
+    color: #FF0000; 
+}
+
+p{ 
+  font-size: 23px; 
+}
+
+img{
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 300px; 
+    float: right
+}
+h2{
+   font-size: 50px; 
+    color: #2E2EFE;  
+}
+td{
+    color: #000; 
+} 
+
+th{ 
+    color: #0B610B;
+}
+
+thead{
+    background: #01DFD7
+}
+
+tbody{
+    background:#FFBF00
+}
+
+p2{
+     font-size: 25px; 
+    color: #FF0000; 
+    
+}
+
+p1{
+    font-size: 25px;  
+}
+
+
+<style>
+		body{background-color: #FFEFD5;padding: 20px;font-family: Arial;}
+		
+		#redes{
+			background-color: #0B4C5F;
+
+		}
+
+		#redes ul{
+			list-style: none;
+			margin: 0;
+			padding: 0;
+		}
+
+		#redes ul li{
+			display: inline-block;
+		}
+
+		#redes ul li a{
+			color: white;
+			display: block;
+			padding: 20px 20px;
+			text-decoration: none;
+		}
+
+		#redes ul li a:hover{
+			background-color: #0101DF;
+		}
+
+		.item-r{
+			float: right;
+		}
+	</style>
+
+ <style>
+		body{background-color: #FFEFD5;padding: 20px;font-family: Arial;}
+		
+		#menu{
+			background-color: #04B431;
+
+		}
+
+		#menu ul{
+			list-style: none;
+			margin: 0;
+			padding: 0;
+		}
+
+		#menu ul li{
+			display: inline-block;
+		}
+
+		#menu ul li a{
+			color: white;
+			display: block;
+			padding: 20px 20px;
+			text-decoration: none;
+		}
+
+		#menu ul li a:hover{
+			background-color: #0101DF;
+		}
+
+		.item-r{
+			float: right;
+		}
+	</style>
+
+#contacto{
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+
+

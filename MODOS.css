@@ -1,0 +1,19 @@
+h1 {
+    font-size: 50px; 
+    color: #FF0000; 
+}
+p{ 
+  font-size: 23px; 
+    color: #0B610B;
+}
+
+img{
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 300px; 
+    float: right
+}
+p2{
+    font-size: 23px; 
+}
+}
